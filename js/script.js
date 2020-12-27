@@ -11,6 +11,86 @@ project 1 - A Random Quote Generator
  * `quotes` array 
 ***/
 
+const quotes = [
+  {
+    quote:"You will face many defeats in life, but never let yourself be defeated ",
+    source:"Maya Angelou",
+    citation:"",
+    date:undefined
+  },
+
+  {
+    quote:"Intellectual growth should commence at birth and cease only at death",
+    source:"Albert Einstein ",
+    citation:"",
+    date:undefined
+  },
+
+  {
+    quote:
+    source:
+    citation:
+    date:
+  },
+
+  {
+    quote:
+    source:
+    citation:
+    date:
+  },
+
+  {
+    quote:
+    source:
+    citation:
+    date:
+  },
+
+  {
+    quote:
+    source:
+    citation:
+    date:
+  },
+
+  {
+    quote:
+    source:
+    citation:
+    date:
+  },
+
+  {
+    quote:
+    source:
+    citation:
+    date:
+  },
+
+  {
+    quote:
+    source:
+    citation:
+    date:
+  },
+
+  {
+    quote:
+    source:
+    citation:
+    date:
+  },
+
+  {
+    quote:
+    source:
+    citation:
+    date:
+  }
+  
+];
+
 
 
 /***
@@ -31,3 +111,6 @@ project 1 - A Random Quote Generator
 ***/
 
 document.getElementById('load-quote').addEventListener("click", printQuote, false);
+
+
+
